@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+huggingface_hub
+openai
+python-dotenv
+json
+os
