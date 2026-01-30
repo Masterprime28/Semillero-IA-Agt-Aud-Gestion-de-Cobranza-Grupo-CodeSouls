@@ -1,12 +1,12 @@
 # AGENTE IA - Agente Auditor de Gestion de Cobranza
 
 # INTEGRANTES
-EDWIN MORA BARCO @masterprime28.
-ISRAEL ONOFRE MONTERO.
-YANDRY FIGUEROA YOSA.
-RUTH CAMPOZANO ROMERO.
-STEVEN ESPAÑA TORRES. 
-CARLOS PAREDES COLOBON.
+* **EDWIN MORA BARCO @masterprime28.
+* **ISRAEL ONOFRE MONTERO.
+* **YANDRY FIGUEROA YOSA.
+* **RUTH CAMPOZANO ROMERO.
+* **STEVEN ESPAÑA TORRES. 
+* **CARLOS PAREDES COLOBON.
 
 # Agente Auditor de Gestión de Cobranzas
 
@@ -42,4 +42,5 @@ Este proyecto consiste en un **Agente Inteligente** diseñado para optimizar los
    ```bash
 
    python -m venv venv
+
 
