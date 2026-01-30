@@ -1,3 +1,13 @@
+# AGENTE IA - Agente Auditor de Gestion de Cobranza
+
+# INTEGRANTES
+EDWIN MORA BARCO @masterprime28
+ISRAEL ONOFRE MONTERO 
+YANDRY FIGUEROA YOSA 
+RUTH CAMPOZANO ROMERO 
+STEVEN ESPAÑA TORRES 
+CARLOS PAREDES COLOBON
+
 # Agente Auditor de Gestión de Cobranzas
 
 Este proyecto consiste en un **Agente Inteligente** diseñado para optimizar los procesos de cobranza mediante el uso de **Machine Learning** y **Procesamiento de Lenguaje Natural (NLP)**. El objetivo principal es auditar el perfil socioeconómico del cliente para ofrecer negociaciones personalizadas con un lenguaje empático.
@@ -30,4 +40,5 @@ Este proyecto consiste en un **Agente Inteligente** diseñado para optimizar los
 1. **Clonar/Abrir la carpeta** en Visual Studio Code.
 2. **Crear un entorno virtual:**
    ```bash
+
    python -m venv venv
