@@ -1,6 +1,6 @@
-#AGENTE IA - Agente Auditor de Gestion de Cobranza
+# AGENTE IA - Agente Auditor de Gestion de Cobranza
 
-#INTEGRANTES
+# INTEGRANTES
 EDWIN MORA BARCO @masterprime28
 ISRAEL ONOFRE MONTERO 
 YANDRY FIGUEROA YOSA 
