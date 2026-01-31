@@ -43,7 +43,8 @@ Este proyecto consiste en un **Agente Inteligente** diseñado para optimizar los
 
    python -m venv venv
 ## 👨‍💻 Link de video explicativo
-** https://drive.google.com/drive/folders/1H52SUQ4nd25Oymlb90uPYFT2iGxG7Iev?usp=sharing **
+**https://drive.google.com/drive/folders/1H52SUQ4nd25Oymlb90uPYFT2iGxG7Iev?usp=sharing**
+
 
 
 
